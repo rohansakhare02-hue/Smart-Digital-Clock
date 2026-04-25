@@ -34,9 +34,6 @@ An IoT-based smart clock that not only displays time but also helps users manage
 3. ESP32 fetches task
 4. Clock displays reminder at scheduled time
 
-## Demo
-(Add your demo video link here)
-
 ## Future Improvements
 - Voice assistant integration
 - Mobile app integration
