@@ -4,6 +4,8 @@ A smart IoT-based digital clock that goes beyond simply displaying time—it hel
 
 This project integrates **hardware, cloud computing, and web development** to create a productivity-focused smart device that reminds users of scheduled tasks directly through a physical clock interface.
 
+
+Web Dashboard: https://smart-clock-c7f60.web.app/tasks
 ---
 
 ## Problem Statement
